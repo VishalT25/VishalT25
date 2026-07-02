@@ -17,7 +17,7 @@
  
 right now, i'm a software engineering intern at **[LUCA Theory](https://lucatheory.com)**, based in Montreal, QC, working on frontier AI prediction models. 
 
-outside of that, i'm in my second year of a double degree in Computer Science and Business Administration through Western's Ivey AEO program.
+outside of that, i'm headed into my 3rd year of a double degree in Honours Computer Science and Honours Business Administration at Western University and Ivey Business School.
 
 ---
  
